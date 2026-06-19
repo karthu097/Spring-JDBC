@@ -1,4 +1,4 @@
-uppose we are building a Student Management System.
+Suppose we are building a Student Management System.
 
 The user enters:
 
