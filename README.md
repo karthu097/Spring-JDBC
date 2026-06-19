@@ -273,6 +273,3 @@ JDBC
 Database Driver
 ↓
 Database
-
-
-<img width="326" height="566" alt="image" src="https://github.com/user-attachments/assets/2c8ca251-412a-4f13-a25d-6286ace8f04b" />
